@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 - C/C++ programmer
 - Python as additional language
 - I'm currently learning robotics
