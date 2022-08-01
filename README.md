@@ -2,6 +2,7 @@
 - C/C++ programmer
 - Python as additional language
 - I'm currently learning robotics
+- Goal to become embedded developer
 
 <!--
 **CodeLikeKitten/CodeLikeKitten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
