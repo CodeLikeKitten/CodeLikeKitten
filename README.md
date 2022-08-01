@@ -1,6 +1,7 @@
 ### 👋
 - C/C++ programmer
 - Python as additional language
+- Have experience with Arduino and STM32
 - I'm currently learning robotics
 - Goal to become embedded developer
 
