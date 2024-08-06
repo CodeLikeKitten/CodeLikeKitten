@@ -1,10 +1,10 @@
-### 👋
+###
 - C/C++ programmer
 - Python as additional language
-- Have experience with Arduino and STM32
-- I'm currently learning robotics
-- Goal to become embedded developer
-- Gnu/Linux user
+- Have experience with AVR microcontrollers and STM32
+- Have degree in robotics
+- Embedded developer
+- Ubuntu user
 
 <!--
 **CodeLikeKitten/CodeLikeKitten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
